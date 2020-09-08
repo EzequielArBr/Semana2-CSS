@@ -1,0 +1,36 @@
+#fundopag{
+
+    background-color: greenyellow;
+
+}
+
+#NomeUniversidad{
+
+    text-align: center; 
+    border-bottom: 1px dashed black;
+    color: yellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif; 
+    font-size: 80px; 
+    font-weight: 1000; 
+    padding: 12px;
+
+}
+
+#Figure{
+
+    width: "200";
+    height:"200";
+
+}
+
+#Rodape{
+
+    text-align: right; 
+    border-bottom: 1px dashed black;
+    background-color: blue ;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif; 
+    font-size: 20px; 
+    font-weight: 1000; 
+    padding: 12px;
+
+}
